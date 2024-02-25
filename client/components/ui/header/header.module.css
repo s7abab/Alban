@@ -1,9 +1,10 @@
 .container {
+  margin: 2rem 3rem 1rem 3rem;
   display: flex;
   justify-content: space-between;
 }
 
-.navitems{
-    display: flex;
-    gap: 10px;
+.navitems {
+  display: flex;
+  gap: 2rem;
 }

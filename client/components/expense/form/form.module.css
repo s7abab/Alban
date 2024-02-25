@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.expense {
+  border: 0;
+  border-radius: 2%;
+  height: 30px;
+  background-color: #d82f00ba;
+  cursor: pointer;
+}
+
+.income {
+  border: 0;
+  border-radius: 2%;
+  height: 30px;
+  background-color: #04c2a2ba;
+  cursor: pointer;
+}

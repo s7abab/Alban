@@ -1,19 +1,19 @@
 const sidebarItems = [
   {
     title: "Expense",
-    url: "",
+    url: "/expense",
   },
   {
     title: "Diary",
-    url: "",
+    url: "/diary",
   },
   {
     title: "Todo",
-    url: "",
+    url: "/todo",
   },
   {
     title: "Blog",
-    url: "",
+    url: "/blog",
   },
 ];
 

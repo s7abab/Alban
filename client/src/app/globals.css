@@ -11,7 +11,7 @@ root {
 
 * {
   padding: 0;
-  margin: 10px;
+  margin: 0;
   font-family: "Kode Mono", monospace;
   color: #dadada;
   font-weight: 500;
